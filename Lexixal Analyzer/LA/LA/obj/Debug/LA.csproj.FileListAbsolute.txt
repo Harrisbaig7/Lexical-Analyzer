@@ -1,0 +1,41 @@
+C:\Users\DELL\source\repos\LA\LA\bin\Debug\LA.exe.config
+C:\Users\DELL\source\repos\LA\LA\bin\Debug\LA.exe
+C:\Users\DELL\source\repos\LA\LA\bin\Debug\LA.pdb
+C:\Users\DELL\source\repos\LA\LA\obj\Debug\LA.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\LA\LA\obj\Debug\LA.Form1.resources
+C:\Users\DELL\source\repos\LA\LA\obj\Debug\LA.Properties.Resources.resources
+C:\Users\DELL\source\repos\LA\LA\obj\Debug\LA.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\LA\LA\obj\Debug\LA.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LA\LA\obj\Debug\LA.exe
+C:\Users\DELL\source\repos\LA\LA\obj\Debug\LA.pdb
+E:\Study\Semester 07\CC\LAB03\LA\LA\bin\Debug\LA.exe.config
+E:\Study\Semester 07\CC\LAB03\LA\LA\bin\Debug\LA.exe
+E:\Study\Semester 07\CC\LAB03\LA\LA\bin\Debug\LA.pdb
+E:\Study\Semester 07\CC\LAB03\LA\LA\obj\Debug\LA.csproj.AssemblyReference.cache
+E:\Study\Semester 07\CC\LAB03\LA\LA\obj\Debug\LA.Form1.resources
+E:\Study\Semester 07\CC\LAB03\LA\LA\obj\Debug\LA.Properties.Resources.resources
+E:\Study\Semester 07\CC\LAB03\LA\LA\obj\Debug\LA.csproj.GenerateResource.cache
+E:\Study\Semester 07\CC\LAB03\LA\LA\obj\Debug\LA.csproj.CoreCompileInputs.cache
+E:\Study\Semester 07\CC\LAB03\LA\LA\obj\Debug\LA.exe
+E:\Study\Semester 07\CC\LAB03\LA\LA\obj\Debug\LA.pdb
+C:\Users\user\Desktop\7th SEMESTER\Semester 07-20230913T020511Z-001\Semester 07\CC\LAB03\LA\LA\bin\Debug\LA.exe.config
+C:\Users\user\Desktop\7th SEMESTER\Semester 07-20230913T020511Z-001\Semester 07\CC\LAB03\LA\LA\bin\Debug\LA.exe
+C:\Users\user\Desktop\7th SEMESTER\Semester 07-20230913T020511Z-001\Semester 07\CC\LAB03\LA\LA\bin\Debug\LA.pdb
+C:\Users\user\Desktop\7th SEMESTER\Semester 07-20230913T020511Z-001\Semester 07\CC\LAB03\LA\LA\obj\Debug\LA.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\7th SEMESTER\Semester 07-20230913T020511Z-001\Semester 07\CC\LAB03\LA\LA\obj\Debug\LA.Form1.resources
+C:\Users\user\Desktop\7th SEMESTER\Semester 07-20230913T020511Z-001\Semester 07\CC\LAB03\LA\LA\obj\Debug\LA.Properties.Resources.resources
+C:\Users\user\Desktop\7th SEMESTER\Semester 07-20230913T020511Z-001\Semester 07\CC\LAB03\LA\LA\obj\Debug\LA.csproj.GenerateResource.cache
+C:\Users\user\Desktop\7th SEMESTER\Semester 07-20230913T020511Z-001\Semester 07\CC\LAB03\LA\LA\obj\Debug\LA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\7th SEMESTER\Semester 07-20230913T020511Z-001\Semester 07\CC\LAB03\LA\LA\obj\Debug\LA.exe
+C:\Users\user\Desktop\7th SEMESTER\Semester 07-20230913T020511Z-001\Semester 07\CC\LAB03\LA\LA\obj\Debug\LA.pdb
+C:\Users\user\Desktop\7th SEMESTER\COMPILER CONSTRUCTION\LAB\LAB03\LA\LA\bin\Debug\LA.exe.config
+C:\Users\user\Desktop\7th SEMESTER\COMPILER CONSTRUCTION\LAB\LAB03\LA\LA\bin\Debug\LA.exe
+C:\Users\user\Desktop\7th SEMESTER\COMPILER CONSTRUCTION\LAB\LAB03\LA\LA\bin\Debug\LA.pdb
+C:\Users\user\Desktop\7th SEMESTER\COMPILER CONSTRUCTION\LAB\LAB03\LA\LA\obj\Debug\LA.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\7th SEMESTER\COMPILER CONSTRUCTION\LAB\LAB03\LA\LA\obj\Debug\LA.Form1.resources
+C:\Users\user\Desktop\7th SEMESTER\COMPILER CONSTRUCTION\LAB\LAB03\LA\LA\obj\Debug\LA.Properties.Resources.resources
+C:\Users\user\Desktop\7th SEMESTER\COMPILER CONSTRUCTION\LAB\LAB03\LA\LA\obj\Debug\LA.csproj.GenerateResource.cache
+C:\Users\user\Desktop\7th SEMESTER\COMPILER CONSTRUCTION\LAB\LAB03\LA\LA\obj\Debug\LA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\7th SEMESTER\COMPILER CONSTRUCTION\LAB\LAB03\LA\LA\obj\Debug\LA.exe
+C:\Users\user\Desktop\7th SEMESTER\COMPILER CONSTRUCTION\LAB\LAB03\LA\LA\obj\Debug\LA.pdb
+C:\Users\user\Desktop\7th SEMESTER\COMPILER CONSTRUCTION\LAB\LAB03\LA\LA\obj\Debug\FloatingPointRegexApp.MainForm.resources
